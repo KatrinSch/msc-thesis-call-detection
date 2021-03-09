@@ -1,5 +1,5 @@
 # msc_thesis_call_detection
-Detection of bird calls during nocturnal migration using machine learning:
+Detection of bird calls during nocturnal migration using machine learning (master thesis, University of Freiburg):
 
 A random forest-based approach for the automatic detection of nocturnal flight calls (NFCs) in audio recordings.
 The detection of NFCs is considered as a binary classification task, therefore continuous audio recordings are divided into short sound clips. A random forest classifier is trained with the aim of distinguishing whether NFCs are present in a sound clip or not.
